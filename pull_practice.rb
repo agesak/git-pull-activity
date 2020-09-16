@@ -26,7 +26,7 @@ end
 # end
 
 # def train_noise
-#   puts "choo choo"
+   puts "choo choo"
 # end
 
 # Task 4: Merge Conflict
